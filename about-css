@@ -1,0 +1,15 @@
+.p1 {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.p2 {
+        font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    font-style: oblique;
+}
+
+Body {
+    background: white;
